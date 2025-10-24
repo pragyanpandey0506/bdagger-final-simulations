@@ -1,0 +1,16 @@
+# Python cache and artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# COMSOL (very large binaries)
+*.mph
+*.mph.lock
+
+# OS junk
+.DS_Store
+Thumbs.db
