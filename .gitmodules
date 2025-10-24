@@ -1,0 +1,4 @@
+[submodule "docs/bdagger-manuscript-prep-2025"]
+	path = docs/bdagger-manuscript-prep-2025
+	url = git@github-bdagger-manuscript:pragyanpandey0506/bdagger-manuscript-prep-2025.git
+	branch = main
